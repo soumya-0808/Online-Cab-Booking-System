@@ -107,7 +107,7 @@ Or use the provided script:
 
 1. When starting the application, you'll be prompted to select your role:
    ```
-   ***** CBRaman Soumya Launcher: A one stop app for your cab booking *****
+   ***** C.V. Raman Global University Student: A one stop app for your cab booking *****
    
    Are you: 
    1: Admin
@@ -178,13 +178,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributors
 
-- Soumya Ranjan - CB Raman College
+- C.V. Raman Global University Student
 
 ## Acknowledgments
 
-- CB Raman College
+- C.V. Raman Global University
 - Faculty of Computer Science
 
 ---
 
-© 2023 CBRaman Soumya Launcher - All Rights Reserved 
+© 2025 C.V. Raman Global University Student - All Rights Reserved 
