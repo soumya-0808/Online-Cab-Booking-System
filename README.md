@@ -1,8 +1,8 @@
-# CBRaman Soumya Launcher - Cab Booking Application
+# C.V. Raman Global University - Online Cab Booking System
 
 ## Overview
 
-CBRaman Soumya Launcher is a comprehensive cab booking system implemented as a Java console application. It provides an efficient platform for cab bookings, managing drivers, customers, and administrative operations. The application is designed using object-oriented principles and follows clean code practices.
+C.V. Raman Global University student Launcher is a comprehensive cab booking system implemented as a Java console application. It provides an efficient platform for cab bookings, managing drivers, customers, and administrative operations. The application is designed using object-oriented principles and follows clean code practices.
 
 ## Features
 
